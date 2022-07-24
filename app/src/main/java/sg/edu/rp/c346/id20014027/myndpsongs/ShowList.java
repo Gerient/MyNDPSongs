@@ -18,6 +18,7 @@ public class ShowList extends AppCompatActivity {
     ListView lv;
     ArrayList<Song> al;
     ArrayAdapter<Song> aa;
+    CustomAdapter caSong
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +27,7 @@ public class ShowList extends AppCompatActivity {
 
         btn5Stars = findViewById(R.id.button5Stars);
         lv = findViewById(R.id.lv);
+        caSong = new CustomAdapter(this, R.layout.row, al);
 
         al = new ArrayList<Song>();
         aa = new ArrayAdapter<>(ShowList.this, android.R.layout.simple_expandable_list_item_1, al);
