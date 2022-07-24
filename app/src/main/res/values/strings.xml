@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyNDPSongs</string>
+    <string name="song_title">Song Title</string>
+    <string name="enter_song_title_here">Enter Song Title Here</string>
+    <string name="singers">Singers</string>
+    <string name="hint_singer">Enter singer name here</string>
+    <string name="year">Year</string>
+    <string name="hint_year">Enter year of release here</string>
+    <string name="stars">Stars</string>
+    <string name="insert">Insert</string>
+    <string name="show_list">Show List</string>
+</resources>

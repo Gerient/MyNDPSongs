@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvSongID" type="id">tvSongID</item>
+    <item name="etSongID" type="id">etSongID</item>
+    <item name="tvTitle" type="id">tvTitle</item>
+    <item name="etTitle" type="id">etTitle</item>
+    <item name="tvSinger" type="id">tvSinger</item>
+    <item name="etSinger" type="id">etSinger</item>
+    <item name="tvYears" type="id">tvYears</item>
+    <item name="etYears" type="id">etYears</item>
+    <item name="btnUpdate" type="id">btnUpdate</item>
+    <item name="btnDelete" type="id">btnDelete</item>
+    <item name="btnCancel" type="id">btnCancel</item>
+</resources>
